@@ -1,0 +1,32 @@
+.header{
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.header ul{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin-left: 20px;
+}
+
+.header ul a{
+  text-decoration: none;
+  margin: 0px 10px;
+  color: #000;
+}
+
+.header .logo{
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #000;
+
+}
+.header__call{
+  border: 0;
+  background-color: rgb(25, 59, 182);
+  color: #fff;
+  padding: 10px 15px ;
+  margin-left: auto;
+}

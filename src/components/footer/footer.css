@@ -1,0 +1,30 @@
+.footer{
+  display: flex;
+  background-color: #000;
+  padding: 20px 10px;
+  color:#fff;
+  margin-top: 30px;
+}
+
+.footer__minu,
+.footer__info{
+  width: 30%;
+}
+.footer__logo{
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 20px;
+
+}
+.footer__minu{
+  list-style-type: none;
+  margin-left: 10px;
+  padding-top:45px ;
+}
+.footer__minu a{
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 10px;
+}
